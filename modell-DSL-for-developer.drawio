@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-26T09:39:59.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="svhvXwq0vKC-hheracvg" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-26T09:51:38.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="UdSjhYzgs6NCy4W3-cVX" version="14.8.1" type="github">
   <diagram id="815nEBBuHhfthzoJdJMb" name="Page-1">
     <mxGraphModel dx="1038" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,10 +284,15 @@
           <mxGeometry x="400" y="702" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dD5N2xeaOPQ_CGBEgf2j-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="1" source="dD5N2xeaOPQ_CGBEgf2j-84" target="dD5N2xeaOPQ_CGBEgf2j-74" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="690" />
+              <mxPoint x="310" y="690" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dD5N2xeaOPQ_CGBEgf2j-84" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TextFieldCheckBox&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="702" width="120" height="40" as="geometry" />
+        <mxCell id="dD5N2xeaOPQ_CGBEgf2j-84" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;TextFieldCheckBox&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ wertebereich: Wertebereich-&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;TextField&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="702" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dD5N2xeaOPQ_CGBEgf2j-86" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;&amp;lt;abstract&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;ValidateMethod&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="880" width="180" height="50" as="geometry" />
